@@ -11,7 +11,7 @@ public class DemoController {
 	    @ResponseBody
 	    public String helloGFG()
 	    {
-	        return "Hello GeeksForGeeks from Sandeep";
+	        return "Hello GeeksForGeeks from Sandeep Joshi";
 	    }
 
 }
